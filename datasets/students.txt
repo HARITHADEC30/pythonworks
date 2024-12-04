@@ -1,0 +1,6 @@
+1000,haritha,django,400
+1001,alphy,django,400
+1003,haritha,django,400
+1004,alphy,django,400
+1005,haritha,django,400
+1006,alphy,django,400

@@ -1,0 +1,54 @@
+
+print("message) => print a message in console
+
+type(object) => return data type of object
+
+input("message") => read value from console
+
+round(object,precision)
+
+len()
+
+min(num1,num2) return smallest number
+
+enumerate--->get oject and index--->itrate
+
+isinsist
+
+
+
+
+for get methods-->python--->dir(object)
+
+<---oops-->
+class
+object
+#__init__() => constructor attributes initialise 
+
+#__str__()  => object string reprasentation
+
+#self       =>point  current instance
+
+#super()    => refer the parent class 
+
+#inheritance => childe class accure the methods and proprties from parent class 
+have diffrent types 
+single
+multilevel
+multiple
+
+
+#polymorphism(more then one form)
+#   method_overloading
+#   method_overriding
+
+#method_overloading--->same method name and different number of pararmeters
+#method_overloading not supported in python
+
+#MRTHOD OVERRIDING------->min 2 classes 
+                        # thos classes should be inherited
+                        # signature should be same
+
+<---ABSTRACTION--->
+
+hiding implimentation details

@@ -1,0 +1,16 @@
+from re import finditer
+
+text="abbbababbabaaaab"
+
+pattern="b{2}"    #{2} is quntity,numer of a
+pattern="a{1,3}"  #minimum 1 ,maximum 3
+pattern="a*"      #any number including 0
+pattern="[a-z]{1,3}"
+
+matcher=finditer(pattern,text)
+
+for obj in matcher:
+
+    print(obj.start(),obj.group())
+
+
